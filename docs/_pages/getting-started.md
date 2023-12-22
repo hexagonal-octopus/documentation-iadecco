@@ -2,12 +2,12 @@
 
 ## 2.1 Setting Up Permalinks
 
-<!-- ![Permalink settings](../_media/settings-permalink.png)
+<!-- ![Permalink settings](./_media/settings-permalink.png)
 _Configure your permalink structure by going to **"Settings" > "Permalinks"** and choose a suitable option. Suggest to choose "Post name" for SEO matters._ -->
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/settings-permalink.png" alt="">
+   <img src="./_media/settings-permalink.png" alt="">
 </div>
 <figcaption>Configure your permalink structure by going to "Settings" > "Permalinks" and choose a suitable option. Suggest to choose "Post name" for SEO matters.</figcaption>
 </figure>
@@ -18,7 +18,7 @@ To customize general settings of your website, please navigate to **Dashboard > 
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-navigate-customize.png" alt="">
+   <img src="./_media/img-navigate-customize.png" alt="">
 </div>
 <figcaption>Customize Menu</figcaption>
 </figure>
@@ -29,7 +29,7 @@ Change information about site title and favicon, navigate to **Dashboard > Appea
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-site-title.png" alt="">
+   <img src="./_media/img-customize-site-title.png" alt="">
 </div>
 <figcaption>Customize Site Title, Tagline, and Site Icon</figcaption>
 </figure>
@@ -42,14 +42,14 @@ Change your company logo, navigate to **Dashboard > Appearance > Customize > Log
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-logo-header.png" alt="">
+   <img src="./_media/img-customize-logo-header.png" alt="">
 </div>
 <figcaption>Customize Logo Header</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-logo-footer.png" alt="">
+   <img src="./_media/img-customize-logo-footer.png" alt="">
 </div>
 <figcaption>Customize Logo Footer</figcaption>
 </figure>
@@ -60,14 +60,14 @@ Change your contact information such as address, phone number, whatsapp & Workin
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-info-contact-page.png" alt="">
+   <img src="./_media/img-customize-info-contact-page.png" alt="">
 </div>
 <figcaption>Customize Info Contact Page</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-info-footer.png" alt="">
+   <img src="./_media/img-customize-info-footer.png" alt="">
 </div>
 <figcaption>Customize also affect Information footer in Homepage</figcaption>
 </figure>
@@ -78,7 +78,7 @@ To change your image banner on each page, navigate to **Dashboard > Appearance >
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-banner-pages.png" alt="">
+   <img src="./_media/img-customize-banner-pages.png" alt="">
 </div>
 <figcaption>Customize image background banner for every pages</figcaption>
 </figure>
@@ -89,14 +89,14 @@ To change your footer description and image section on Homepage, navigate to **D
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customize-why-iadecco.png" alt="">
+   <img src="./_media/img-customize-why-iadecco.png" alt="">
 </div>
 <figcaption>Customize Image in Why IADECCO section Homepage</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-customizr-description-footer.png" alt="">
+   <img src="./_media/img-customizr-description-footer.png" alt="">
 </div>
 <figcaption>Customize description footer section that affect in every pages</figcaption>
 </figure>

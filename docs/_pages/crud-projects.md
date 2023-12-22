@@ -7,13 +7,13 @@ To add new Project, navigate to **Projects > Add New**, and do following steps:
 1. Add Title and type description
    <figure>
       <div class="image-wrapper">
-         <img src="../_media/add-new-project-01.jpg" alt="">
+         <img src="./_media/add-new-project-01.jpg" alt="">
       </div>
    </figure>
 2. Adding Type of Work
    <figure>
       <div class="image-wrapper">
-         <img src="../_media/add-new-project-02.jpg" alt="">
+         <img src="./_media/add-new-project-02.jpg" alt="">
       </div>
    </figure>
 
@@ -22,13 +22,13 @@ To add new Project, navigate to **Projects > Add New**, and do following steps:
 3. Set Featured Image
    <figure>
       <div class="image-wrapper">
-         <img src="../_media/add-new-project-03.jpg" alt="">
+         <img src="./_media/add-new-project-03.jpg" alt="">
       </div>
    </figure>
 4. Publish Your New Project or save it as a draft
    <figure>
       <div class="image-wrapper">
-         <img src="../_media/add-new-project-04.jpg" alt="">
+         <img src="./_media/add-new-project-04.jpg" alt="">
       </div>
    </figure>
 
@@ -39,7 +39,7 @@ To delete project, navigate to menu **Projects > All Projects**
 1. Look for Project Table list, and find project you want to delete by hover the column
    <figure>
       <div class="image-wrapper">
-         <img src="../_media/img-project-action.png" alt="" />
+         <img src="./_media/img-project-action.png" alt="" />
       </div>
    </figure>
 2. Find button `Trash` and click it.
@@ -51,7 +51,7 @@ To delete project, navigate to menu **Projects > All Projects**
 
    <figure>
       <div class="image-wrapper">
-         <img src="../_media/img-delete-project-undo.png" alt="">
+         <img src="./_media/img-delete-project-undo.png" alt="">
       </div>
    </figure>
 
@@ -78,7 +78,7 @@ To add new Type of Works:
 
 <figure>
    <div class="image-wrapper">
-      <img src="../_media/img-type-add.png" alt="">
+      <img src="./_media/img-type-add.png" alt="">
    </div>
 </figure>
 
@@ -94,6 +94,6 @@ To add Edit and delete Type of Works:
 
 <figure>
    <div class="image-wrapper">
-      <img src="../_media/img-type-action.png" alt="">
+      <img src="./_media/img-type-action.png" alt="">
    </div>
 </figure>
