@@ -20,19 +20,19 @@ To customize the menu please navigate to **Appearance > Menus** and follow the f
 <div class="image-wrapper">
    <img src="./_media/img-navigate-footer-menu.png" alt="">
 </div>
-<figcaption>2. Customize Footer Navigation</figcaption>
+<figcaption>3. Customize Footer Navigation</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="./_media/img-navigate-main-menu-fe.png" alt="">
+   <img src="./_media/img-navigate-main-menu-FE.png" alt="">
 </div>
 <figcaption>Main navigation appearence in frontend</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="./_media/img-navigate-footer-menu-fe.png" alt="">
+   <img src="./_media/img-navigate-footer-menu-FE.png" alt="">
 </div>
 <figcaption>Footer navigation appearence in frontend</figcaption>
 </figure>
