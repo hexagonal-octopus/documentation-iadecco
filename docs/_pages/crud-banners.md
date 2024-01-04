@@ -4,7 +4,7 @@ To create and modify banner slides on homepage, please navigate to **Dashboard >
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-navigate-banner.png" alt="">
+   <img src="./_media/img-navigate-banner.png" alt="">
 </div>
 <figcaption>Navigation to Banner Menu</figcaption>
 </figure>
@@ -15,28 +15,28 @@ Navigate to `Add New` link and fill the fields.
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-add-banner-step-1.png" alt="">
+   <img src="./_media/img-add-banner-step-1.png" alt="">
 </div>
 <figcaption>Fill the title, description, image featured (for background image)</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-add-banner-step-2.png" alt="">
+   <img src="./_media/img-add-banner-step-2.png" alt="">
 </div>
 <figcaption>Tick checkbox if you want enable/disable the content of banner, start and end date of the appearence banner</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-add-banner-step-3.png" alt="">
+   <img src="./_media/img-add-banner-step-3.png" alt="">
 </div>
 <figcaption>Fill the text button and link that you want attached to the button</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-add-banner-fe.png" alt="">
+   <img src="./_media/img-add-banner-fe.png" alt="">
 </div>
 <figcaption>Here the outline of the banner slide structure on frontend.</figcaption>
 </figure>
@@ -45,7 +45,7 @@ Navigate to `Add New` link and fill the fields.
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img--banner-actions.png" alt="">
+   <img src="./_media/img--banner-actions.png" alt="">
 </div>
 <figcaption>Please hover the selected row you want to edit or delete.</figcaption>
 </figure>
@@ -56,7 +56,7 @@ If you accidentally delete your banner, you can undo-ing by click the Undo butto
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-banner-delete-undo.png" alt="">
+   <img src="./_media/img-banner-delete-undo.png" alt="">
 </div>
 <figcaption>Undo operation to the rescue.</figcaption>
 </figure>

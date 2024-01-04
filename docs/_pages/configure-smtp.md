@@ -4,19 +4,19 @@ Here step by step configure SMTP Mail for contact form able to work and sending 
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-smtp-setting-1.png" alt="">
+   <img src="./_media/img-smtp-setting-1.png" alt="">
 </div>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-smtp-setting-2.png" alt="">
+   <img src="./_media/img-smtp-setting-2.png" alt="">
 </div>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-smtp-setting-3.png" alt="">
+   <img src="./_media/img-smtp-setting-3.png" alt="">
 </div>
 </figure>
 

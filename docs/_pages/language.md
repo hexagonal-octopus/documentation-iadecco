@@ -2,14 +2,14 @@
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-header-fe.png" alt="">
+   <img src="./_media/img-header-fe.png" alt="">
 </div>
 <figcaption>Language switcher located on top right corner header</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-header-language.png" alt="">
+   <img src="./_media/img-header-language.png" alt="">
 </div>
 <figcaption>Switch from English to Indonesia and vice-versa</figcaption>
 </figure>
@@ -20,14 +20,14 @@ Go to Admin Login Page `https://iadecco.co.id/wp-admin`
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-login-admin.png" alt="">
+   <img src="./_media/img-login-admin.png" alt="">
 </div>
 <figcaption>Filled the field Username and password</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-dashboard-EN-select.png" alt="">
+   <img src="./_media/img-dashboard-EN-select.png" alt="">
 </div>
 <figcaption>User will be redirected to dashboard.</figcaption>
 </figure>
@@ -40,14 +40,14 @@ To access Indonesia language, please hover on top navbar **My SItes > IADECCO We
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-dashboard-ID.png" alt="">
+   <img src="./_media/img-dashboard-ID.png" alt="">
 </div>
 <figcaption>Hover the navbar and find IADECCO Website [ID] > Dashboard</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-dashboard-ID-select.png" alt="">
+   <img src="./_media/img-dashboard-ID-select.png" alt="">
 </div>
 <figcaption>Dashboard View in Indonesia version.</figcaption>
 </figure>
@@ -58,14 +58,14 @@ To access Indonesia language, please hover on top navbar **My SItes > IADECCO We
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-dashboard-EN.png" alt="">
+   <img src="./_media/img-dashboard-EN.png" alt="">
 </div>
 <figcaption>Hover the navbar and find IADECCO Website [EN] > Dashboard</figcaption>
 </figure>
 
 <figure>
 <div class="image-wrapper">
-   <img src="../_media/img-dashboard-EN-select.png" alt="">
+   <img src="./_media/img-dashboard-EN-select.png" alt="">
 </div>
 <figcaption>Dashboard View in English version.</figcaption>
 </figure>
