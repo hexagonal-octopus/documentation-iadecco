@@ -37,7 +37,7 @@ root/
 ├── archive-capabilities.php
 ├── archive-projects.php
 ├── archive-technologies.php
-├── footer-page.php
+├── footer.php
 ├── functions.php
 ├── header.php
 ├── index.php

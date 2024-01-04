@@ -1,19 +1,19 @@
-# 5. Add Delete and Modify Project
+# 6. Add Delete and Modify Project
 
-## 5.1 Adding New Project Item
+## 6.1 Adding New Project Item
 
 To add new Project, navigate to **Projects > Add New**, and do following steps:
 
 1. Add Title and type description
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/add-new-project-01.jpg" alt="">
+         <img src="../_media/add-new-project-01.jpg" alt="">
       </div>
    </figure>
 2. Adding Type of Work
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/add-new-project-02.jpg" alt="">
+         <img src="../_media/add-new-project-02.jpg" alt="">
       </div>
    </figure>
 
@@ -22,24 +22,24 @@ To add new Project, navigate to **Projects > Add New**, and do following steps:
 3. Set Featured Image
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/add-new-project-03.jpg" alt="">
+         <img src="../_media/add-new-project-03.jpg" alt="">
       </div>
    </figure>
 4. Publish Your New Project or save it as a draft
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/add-new-project-04.jpg" alt="">
+         <img src="../_media/add-new-project-04.jpg" alt="">
       </div>
    </figure>
 
-## 5.2 Delete Project Item
+## 6.2 Delete Project Item
 
 To delete project, navigate to menu **Projects > All Projects**
 
 1. Look for Project Table list, and find project you want to delete by hover the column
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/img-project-action.png" alt="" />
+         <img src="../_media/img-project-action.png" alt="" />
       </div>
    </figure>
 2. Find button `Trash` and click it.
@@ -51,11 +51,11 @@ To delete project, navigate to menu **Projects > All Projects**
 
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/img-delete-project-undo.png" alt="">
+         <img src="../_media/img-delete-project-undo.png" alt="">
       </div>
    </figure>
 
-## 5.3 Modify Project Item
+## 6.3 Modify Project Item
 
 To modify project that you already created, navigate to menu **Project**
 
@@ -64,11 +64,11 @@ To modify project that you already created, navigate to menu **Project**
 3. You will be navigate to Edit Page and you can modify it as you like.
 4. Don't forget to Update your Project by clicking Update button on the top right corner of the screen
 
-## 5.4 Type Of Works
+## 6.4 Type Of Works
 
 Type of Works is an alias name for category project. By Default, type of works consist of Warehouse, Plant, Others, Factory, Dangerous Item Storage, Clean Room.
 
-### 5.4.1 Add New Type of Works
+### 6.4.1 Add New Type of Works
 
 To add new Type of Works:
 
@@ -78,13 +78,13 @@ To add new Type of Works:
 
 <figure>
    <div class="image-wrapper">
-      <img src="./_media/img-type-add.png" alt="">
+      <img src="../_media/img-type-add.png" alt="">
    </div>
 </figure>
 
 ?> Slug Name field is automatically created if you not defined. Recommend to leave it blank and let wordpress to do the work.
 
-### 5.4.2 Edit and Delete Type of Works
+### 6.4.2 Edit and Delete Type of Works
 
 To add Edit and delete Type of Works:
 
@@ -94,6 +94,6 @@ To add Edit and delete Type of Works:
 
 <figure>
    <div class="image-wrapper">
-      <img src="./_media/img-type-action.png" alt="">
+      <img src="../_media/img-type-action.png" alt="">
    </div>
 </figure>

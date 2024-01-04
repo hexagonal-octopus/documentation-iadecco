@@ -1,20 +1,20 @@
-# 6. Add Delete & Modify Capabilities
+# 7. Add Delete & Modify Capabilities
 
 Navigate to **Capabilites** menu in admin panel.
 
 <figure>
    <div class="image-wrapper">
-      <img src="./_media/img-navigate-capabilities-menu.png" alt="">
+      <img src="../_media/img-navigate-capabilities-menu.png" alt="">
    </div>
 </figure>
 
-## 6.1 Adding New Capability
+## 7.1 Adding New Capability
 
 To add new Project, navigate to **Capabilities > Add New**, and do following steps:
 
 <figure>
    <div class="image-wrapper">
-      <img src="./_media/img-navigate-capability-new-1.png" alt="">
+      <img src="../_media/img-navigate-capability-new-1.png" alt="">
    </div>
 </figure>
 
@@ -22,18 +22,18 @@ Adding title, description, and featured image.
 
 <figure>
    <div class="image-wrapper">
-      <img src="./_media/img-navigate-capability-new-2.png" alt="">
+      <img src="../_media/img-navigate-capability-new-2.png" alt="">
    </div>
 </figure>
 
-## 6.2 Delete & Edit Existing Capability
+## 7.2 Delete & Edit Existing Capability
 
 To delete or edit existing capability, navigate to menu **Capabilities > All Capabilities**
 
 1. Look for Capability Table list, and find capability you want to delete/edit by hover the column
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/img-navigate-capabilities-actions.png" alt="" />
+         <img src="../_media/img-navigate-capabilities-actions.png" alt="" />
       </div>
    </figure>
 2. Find button `Trash` to delete or `Edit` to edit existing capability.
@@ -45,6 +45,6 @@ To delete or edit existing capability, navigate to menu **Capabilities > All Cap
 
    <figure>
       <div class="image-wrapper">
-         <img src="./_media/img-navigate-capability-delete.png" alt="">
+         <img src="../_media/img-navigate-capability-delete.png" alt="">
       </div>
    </figure>
